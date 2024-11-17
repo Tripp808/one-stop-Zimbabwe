@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5848750872",
+    "project_id": "one-stop-zimbabwe",
+    "storage_bucket": "one-stop-zimbabwe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5848750872:android:b503f41e3bea28663b1c6d",
+        "android_client_info": {
+          "package_name": "com.onestopzimbabuehac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5848750872-r90vlat8fuutt2vbv37etnni4a766sl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLh_PVHmgIrAAfWKSLHIhaU2p_Wnj9mXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5848750872-r90vlat8fuutt2vbv37etnni4a766sl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
